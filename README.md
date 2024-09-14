@@ -41,8 +41,5 @@ This project utilizes the following technologies:
  
 
 
- [Watch the Memory Cards Game Demo](https://drive.google.com/drive/my-drive)
-
-
 
 
